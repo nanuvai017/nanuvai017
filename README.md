@@ -1,9 +1,9 @@
-### MD Mehadi Sarkar 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# MD Mehadi Sarkar 
+
 
 I am a skilled programmer 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Ulipur Cyber Help Zone  
 - 🌱 I’m currently learning JavaScript  
